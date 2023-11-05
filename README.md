@@ -2,10 +2,10 @@
 
 ## Description
 
-This study guide was created as a tool to assist me in learning and completing the preparation work before starting the Web development bootcamp.
-It provides a useful space for me to organise useful information.
+This study guide was created as a learning tool to assist me in completing the preparation work for the Web development bootcamp.
+It provides a useful space for me to organise new information, that is easy to read.
 Creating the guide acted as a hands-on learning tool to prepare me for the bootcamp lessons ahead.
-The work I did to create the prework study guide webpage has already helped me to learn the basics of HTML, CSS, Git, and JavaScript.
+The work done to create the prework study guide webpage has helped me to become familiar with using HTML, CSS, Git, and JavaScript.
 
 
 ## Installation
@@ -14,8 +14,8 @@ N/A
 
 ## Usage
 
-The webpage includes notes for each topic learned, including HTMAL, CSS, Git and Javascript. 
-For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
+The webpage includes notes for each topic learned, including HTML, CSS, Git and Javascript. 
+For a random suggestion on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
 
 ## Credits
 
@@ -23,7 +23,7 @@ N/A
 
 ## License
 
-MIT license
+Mit License
 ---
 
 🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
